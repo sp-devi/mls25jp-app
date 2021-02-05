@@ -2,12 +2,15 @@
   text-align: center;
 }
 
+.App-logo {
+  height: 10vmin;
+}
+
 .App-header {
   background-color: #0e436d;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: row;
-  align-items: left;
-  justify-content: flex-start;
-  color: white;
+}
+
+.site-header {
+  height: 10vmin;
+  float: left;
 }
