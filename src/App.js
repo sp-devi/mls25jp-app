@@ -1,4 +1,3 @@
-import logo from './assets/mile-logo-sm.png';
 import { AppBar } from "@material-ui/core";
 import './App.css';
 
